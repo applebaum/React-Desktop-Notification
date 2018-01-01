@@ -4,15 +4,15 @@ Compatible with React v16.
 
 ## install
 ```
-	npm install --save react-desktop-notification
+	npm install --save react-desktop-notifications
 	OR
-	yarn add react-desktop-notification
+	yarn add react-desktop-notifications
 
 ```
 
 ## usage
 ```
-import Notifier from "react-desktop-notification"
+import Notifier from "react-desktop-notifications"
 
 gotNewNotification(){
   ...
