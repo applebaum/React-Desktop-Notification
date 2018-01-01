@@ -1,4 +1,4 @@
-## react-desktop-notification
+## react-desktop-notifications
 
 Compatible with React v16.
 
@@ -35,4 +35,4 @@ gotNewNotification(){
 
 ## git
 
-https://github.com/applebaum/React-Desktop-Notification.git
+https://github.com/applebaum/react-desktop-notifications.git
