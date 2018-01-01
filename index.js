@@ -1,9 +1,7 @@
-/**
- * Created by lizhen on 5/28/2016.
- */
 var React = require('react');
+var createReactClass = require('create-react-class');
 
-var Notifier = React.createClass({
+var Notifier = createReactClass({
   statics: {
     start: function(title, context, url, icon, name) {
       name=name||("notiwin"+(function(n) {

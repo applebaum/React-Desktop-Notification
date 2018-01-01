@@ -1,5 +1,7 @@
 ## react-desktop-notification
 
+Compatible with React v16.
+
 ## install
 ```
 	npm install --save react-desktop-notification

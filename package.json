@@ -1,11 +1,14 @@
 {
-  "name": "react-desktop-notification",
-  "version": "1.0.7",
-  "description": "Use browser's desktop notification in React. It depends on notifications API of chrome or else browser's other way.",
+  "name": "react-desktop-notifications",
+  "version": "1.0.0",
+  "description": "Use browser's desktop notification in React. It depends on notifications API of chrome or else browser's other way. Compatible with React v16.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "leejaen",
-  "license": "ISC"
+  "author": "applebaum",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-class": "15.6.2"
+  }
 }
