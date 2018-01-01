@@ -35,4 +35,4 @@ gotNewNotification(){
 
 ## git
 
-https://github.com/leejaen/React-Desktop-Notification.git
+https://github.com/applebaum/React-Desktop-Notification.git
