@@ -18,7 +18,7 @@ var Notifier = createReactClass({
       if (Notification.permission !== "granted") {
         Notification.requestPermission();
       } else {
-        icon=(icon&&icon.match(/^.*\.(jpeg|jpg|gif|png)/gi))?icon:"http://ob9oayzh3.bkt.clouddn.com/images.png"
+        icon=(icon&&icon.match(/^.*\.(jpeg|jpg|gif|png)/gi))?icon:"https://openclipart.org/image/300px/svg_to_png/283602/alert-bell.png"
         var notification = new Notification(title, {
           icon: icon,
           body: context,
@@ -37,7 +37,7 @@ var Notifier = createReactClass({
       if (Notification.permission !== "granted") {
         Notification.requestPermission();
       } else {
-        icon=(icon&&icon.match(/^.*\.(jpeg|jpg|gif|png)/gi))?icon:"http://ob9oayzh3.bkt.clouddn.com/images.png"
+        icon=(icon&&icon.match(/^.*\.(jpeg|jpg|gif|png)/gi))?icon:"https://openclipart.org/image/300px/svg_to_png/283602/alert-bell.png"
         var notification = new Notification(title, {
           icon: icon,
           body: context,
